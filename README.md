@@ -1,4 +1,4 @@
-# Bus Ticket Chatbot
+# Sistema Inteligente de Autoatendimento e Reserva de Passagens Rodoviárias
 
 Chatbot inteligente para consulta, reserva e venda de passagens rodoviárias, com foco em automação conversacional e uso de inteligência artificial para interpretação de mensagens em linguagem natural.
 
